@@ -1,14 +1,16 @@
 package lab1;
 
 import java.util.HashSet;
+import java.util.Scanner;
 import java.util.Set;
 
 public class TaskC {
-    public void executeTaskC() {
-        System.out.println("Task C");
-        String sentence = "fffff ab f 1234 jkjk";
-        String result = findWordWithMinUniqueChars(sentence); // Ожидается: "fffff"
-        System.out.println(result);
+    public void executeTaskC(Scanner scanner) {
+        System.out.println("Введите строку с несколькими словами: ");
+        String sentence = scanner.nextLine();
+
+        String result = findWordWithMinUniqueChars(sentence);
+        System.out.println("Слово с минимальным количеством уникальных символов: " + result);
     }
 
     public String findWordWithMinUniqueChars(String sentence) {

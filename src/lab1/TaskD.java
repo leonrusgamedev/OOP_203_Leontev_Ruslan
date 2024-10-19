@@ -1,10 +1,13 @@
 package lab1;
 
+import java.util.Scanner;
+
 public class TaskD {
-    public void executeTaskD() {
-        System.out.println("Task D");
-        String sentence = "One two three раз два три one1 two2 123";
-        int count = countLatinWords(sentence); // Ожидается: 3 (One, two, three)
+    public void executeTaskD(Scanner scanner) {
+        System.out.println("Введите предложение: ");
+        String sentence = scanner.nextLine();
+
+        int count = countLatinWords(sentence);
         System.out.println("Количество слов с латинскими буквами: " + count);
     }
 
