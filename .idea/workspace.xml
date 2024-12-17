@@ -4,18 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6f5ea29-9db2-44b6-9b0a-4d3811d2943c" name="Changes" comment="Lab2 Some Changes">
-      <change afterPath="$PROJECT_DIR$/src/lab3/src/Vector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/src/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/src/task2/clothing/Clothing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/src/task2/clothing/Pants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/src/task2/clothing/Skirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/src/task2/clothing/TShirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/src/task2/clothing/Tie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/src/task2/interfaces/MenClothing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/src/task2/interfaces/WomenClothing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/src/task2/models/Size.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/src/task2/services/Atelier.java" afterDir="false" />
+    <list default="true" id="d6f5ea29-9db2-44b6-9b0a-4d3811d2943c" name="Changes" comment="Lab3">
+      <change afterPath="$PROJECT_DIR$/src/lab4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/resource/tasks.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_classes/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_classes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_classes/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_classes/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_patterns/Adaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_patterns/Adapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_patterns/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_patterns/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_patterns/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_some_every/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab_some_every/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +71,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last.edited.regexp": "Sample Text",
     "last_opened_file_path": "C:/Users/LeonR/IdeaProjects/OOP_203_Leontev_Ruslan/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -108,7 +112,12 @@
       <workItem from="1728711448967" duration="3254000" />
       <workItem from="1729320404198" duration="427000" />
       <workItem from="1729320867351" duration="593000" />
-      <workItem from="1729321800461" duration="2497000" />
+      <workItem from="1729321800461" duration="3581000" />
+      <workItem from="1733835285094" duration="1984000" />
+      <workItem from="1733840763707" duration="41000" />
+      <workItem from="1734078471249" duration="592000" />
+      <workItem from="1734168502373" duration="1922000" />
+      <workItem from="1734465724462" duration="4131000" />
     </task>
     <task id="LOCAL-00001" summary="Lab1">
       <option name="closed" value="true" />
@@ -126,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729320768189</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lab3">
+      <option name="closed" value="true" />
+      <created>1729324700477</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729324700477</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +152,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab1" />
     <MESSAGE value="Lab2 Some Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab2 Some Changes" />
+    <MESSAGE value="Lab3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab3" />
   </component>
 </project>
